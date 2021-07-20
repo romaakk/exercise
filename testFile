@@ -1,6 +1,9 @@
 This is testFile to test reset command.
+<<<<<<< HEAD
 commit 01
 commit 02
 commit 03
 
 
+=======
+>>>>>>> parent of a5ecd39... commit 01
